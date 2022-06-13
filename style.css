@@ -1,0 +1,18 @@
+body{
+
+  background-image:url(https://i.pinimg.com/originals/8e/27/ed/8e27eda5d6c5299559c26dc45fdd2d90.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Sedgwick Ave', cursive;
+}
+.container {
+  display: block;
+  text-align: center;
+  height: 400px;
+  opacity: 75%;
+  width: 50%;
+  margin: auto;
+  background-color: rgb(91, 207, 239);
+
+}
+
